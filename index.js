@@ -1,9 +1,4 @@
 var Promise = require("bluebird");
-var rp = require("request-promise");
-//require('request-debug')(rp);
-
-rp.defaults({jar: true});
-
 
 function st(time, cb){
 	return setTimeout(cb, time);
