@@ -1,6 +1,6 @@
 {
   "name": "simple-throttler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple way to ensure that a function does not run more often than specified",
   "main": "index.js",
   "scripts": {
