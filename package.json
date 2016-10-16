@@ -1,0 +1,24 @@
+{
+  "name": "simple-throttler",
+  "version": "1.0.0",
+  "description": "A simple way to ensure that a function does not run more often than specified",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sealcode/simple-throttler.git"
+  },
+  "author": "sealcode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sealcode/simple-throttler/issues"
+  },
+  "homepage": "https://github.com/sealcode/simple-throttler#readme",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "request": "^2.75.0",
+    "request-promise": "^4.1.1"
+  }
+}
